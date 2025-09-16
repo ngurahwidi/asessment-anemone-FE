@@ -1,12 +1,23 @@
-# React + Vite
+# Langkah Instalasi dan Menjalankan Proyek
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Ikuti langkah-langkah berikut untuk menginstal dan menjalankan proyek ini dengan benar:
 
-Currently, two official plugins are available:
+1. **Clone repository dari GitHub**
+   ```
+   git clone https://github.com/ngurahwidi/asessment-anemone-FE.git
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+2. **Masuk ke folder project**
+    ```
+    cd repository
 
-## Expanding the ESLint configuration
+3. **Install dependencies dengan npm**
+    ```
+    npm install
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+4. **Jalankan aplikasi**
+    ```
+    npm run dev
+
+9. **Buka aplikasi**
+    ```
+    http://localhost:5174
