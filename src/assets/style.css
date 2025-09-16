@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+@plugin 'flowbite/plugin';
+@source '~flowbite';
+
+@import "./_variable.css";
